@@ -29,9 +29,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Support Me"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support Me" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanelmallouky&show_icons=true&locale=en&layout=compact" alt="hassanelmallouky" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanelmallouky&show_icons=true&locale=en" alt="hassanelmallouky" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanelmallouky&" alt="hassanelmallouky" /></p>
