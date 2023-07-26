@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/hassan-el-mallouky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-el-mallouky" height="30" width="40" /></a>
 <a href="https://fb.com/hassan.elmallouky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassan.elmallouky" height="30" width="40" /></a>
 <a href="mailto:hassan.elmallouky@gmail.com">
-        <img src="gmail-removebg-preview.png" alt="Contact Me" height="30" width="40"/>
+        <img src="gmail-removebg-preview.png" alt="Contact Me"/>
     </a>
 </p>
 
