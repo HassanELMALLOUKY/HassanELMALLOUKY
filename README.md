@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan EL MALLOUKY</h1>
 
 <!--<img src="https://user-images.githubusercontent.com/97888950/183878464-a7a0ce0f-d1d1-4076-9e3e-66341b6d8e6b.jpg">-->
-<h3 align="center">A passionate frontend/backend developer from Morocco</h3>
+<h3 align="center">A passionate FullStuck Junior Developer (Spring/Angular) from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanelmallouky&label=Profile%20views&color=0e75b6&style=flat" alt="hassanelmallouky" /> </p>
 
