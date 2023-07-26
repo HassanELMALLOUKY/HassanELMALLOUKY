@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanelmallouky" alt="hassanelmallouky" /></a> </p>
 
-- 🔭 I’m currently available for any job or internship :)
+- 🔭 I’m currently available for any job or internship 😇
 
 - 🌱 I’m currently learning **Spring & Angular**
 
