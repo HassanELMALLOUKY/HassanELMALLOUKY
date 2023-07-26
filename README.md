@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanelmallouky" alt="hassanelmallouky" /></a> </p>
 
-- 🔭 I’m currently working on [internship project](https://github.com/HassanELMALLOUKY/gestionRH_Spring-Angular)
+- 🔭 I’m currently available for any job or internship :)
 
 - 🌱 I’m currently learning **Spring & Angular**
 
 - 👨‍💻 All of my projects are available at [https://hassanelmallouky.github.io/](https://hassanelmallouky.github.io/)
-
-- 💬 Ask me about **NoThing 😏**
 
 - 📫 How to reach me **hassan.elmallouky@gmail.com**
 
@@ -23,6 +21,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/hassan-el-mallouky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-el-mallouky" height="30" width="40" /></a>
 <a href="https://fb.com/hassan.elmallouky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassan.elmallouky" height="30" width="40" /></a>
+<a href="mailto:hassan.elmallouky@gmail.com">
+        <img src="gmail-removebg-preview.png" alt="Contact Me" height="30" width="40"/>
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
