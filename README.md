@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://hassanelmallouky.github.io/](https://hassanelmallouky.github.io/)
 
-- 📫 How to reach me **hassan.elmallouky@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bJFaR0TnzskQiGMASsKiwGzXp55oXhzR/view?usp=sharing](https://drive.google.com/file/d/1bJFaR0TnzskQiGMASsKiwGzXp55oXhzR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
