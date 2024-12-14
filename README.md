@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring & Angular**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://hassanelmallouky.me/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://hassanmallouky.me/)
 
 
 <h3 align="left">Connect with me:</h3>
