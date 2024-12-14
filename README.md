@@ -11,9 +11,8 @@
 
 - 🌱 I’m currently learning **Spring & Angular**
 
-- 👨‍💻 All of my projects are available at [https://hassanelmallouky.github.io/](https://hassanelmallouky.github.io/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://hassanelmallouky.me/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bJFaR0TnzskQiGMASsKiwGzXp55oXhzR/view?usp=sharing](https://drive.google.com/file/d/1bJFaR0TnzskQiGMASsKiwGzXp55oXhzR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
